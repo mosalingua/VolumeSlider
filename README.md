@@ -1,6 +1,7 @@
 VolumeSlider
 ============
 
+Updated o 20/03/2018 by uareurapid (cordova IOS 4.5.4) 
 *Updated for Cordova 3.0* by orbitaloop
 
 Installation

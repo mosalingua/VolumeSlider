@@ -18,11 +18,11 @@
 @synthesize webView;
 #endif
 
--(CDVPlugin*) initWithWebView:(UIWebView*)theWebView
-{
-    self = (VolumeSlider*)[super initWithWebView:theWebView];
-    return self;
-}
+//-(CDVPlugin*) initWithWebView:(UIWebView*)theWebView
+//{
+//    self = (VolumeSlider*)[super initWithWebView:theWebView];
+//    return self;
+//}
 
 
 #pragma mark -
